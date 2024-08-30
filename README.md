@@ -33,3 +33,5 @@ predefined naming conventions.
 **9. Multi-monitor Support:** The utility is able to recognize and handle
 multiple monitors independently, allowing users to grab screens from any of the connected
 displays.
+
+To prove the app download the files and execute a cargo build.
