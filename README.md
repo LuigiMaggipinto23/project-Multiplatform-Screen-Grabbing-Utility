@@ -1,6 +1,6 @@
 # screen_grabbing_utility
 
-The application fulfill the following requirements: 
+The application fulfills the following requirements: 
 
 **1. Platform Support:** The utility is compatible with multiple desktop
 operating systems, including Windows and macOS.
