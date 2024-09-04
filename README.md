@@ -1,4 +1,4 @@
-# screen_grabbing_utility
+# Multiplatform-Screen-Grabbing-Utility
 
 The application fulfills the following requirements: 
 
